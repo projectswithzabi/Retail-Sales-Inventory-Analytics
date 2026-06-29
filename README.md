@@ -1,5 +1,6 @@
-**Retail Sales & Inventory Analytics System
-Project Overview**
+**==Retail Sales & Inventory Analytics System==**
+
+**Project Overview**
 
 This project is a retail analytics system built using MySQL and Excel. The purpose of the project is to simulate how a retail business can store, organize, and analyze sales and inventory data.
 
@@ -7,9 +8,9 @@ The database tracks products, categories, suppliers, stores, employees, customer
 
 **Tools Used:**
 
-MySQL
-MySQL Workbench
-Excel
+MySQL,
+MySQL Workbench,
+Excel,
 
 **Database Features:**
 
@@ -26,9 +27,9 @@ Inventory
 
 The database uses primary keys and foreign keys to connect the tables and maintain relationships between sales, products, stores, employees, customers, and inventory.
 
-**Business Questions Answered**
+**==Business Questions Answered==**
 
-**This project answers questions such as:**
+**This Project Answers Questions Such As:**
 
 Which products generate the most revenue?
 Which product categories perform the best?
@@ -40,7 +41,7 @@ Which customers spent the most?
 Which products generated the most estimated profit?
 SQL Skills Demonstrated
 
-**This project demonstrates the use of:**
+**This Project Demonstrates The Use Of:**
 
 Database creation
 Relational table design
