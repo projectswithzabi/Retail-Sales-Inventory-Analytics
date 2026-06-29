@@ -5,7 +5,7 @@ This project is a retail analytics system built using MySQL and Excel. The purpo
 
 The database tracks products, categories, suppliers, stores, employees, customers, sales transactions, sale items, and inventory levels. SQL queries were used to generate business insights, and the results were exported into Excel to create a dashboard.
 
-**Tools Used**
+**Tools Used:**
 MySQL
 MySQL Workbench
 Excel
