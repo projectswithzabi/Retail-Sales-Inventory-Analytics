@@ -10,7 +10,7 @@ The database tracks products, categories, suppliers, stores, employees, customer
 
 MySQL,
 MySQL Workbench,
-Excel,
+Excel
 
 **Database Features:**
 
