@@ -10,7 +10,7 @@ MySQL
 MySQL Workbench
 Excel
 
-**Database Features**
+**Database Features:**
 The MySQL database includes 9 connected tables:
 Categories
 Suppliers
@@ -24,7 +24,7 @@ Inventory
 
 The database uses primary keys and foreign keys to connect the tables and maintain relationships between sales, products, stores, employees, customers, and inventory.
 
-**Business Questions Answered**
+**Business Questions Answered/**
 **This project answers questions such as:**
 Which products generate the most revenue?
 Which product categories perform the best?
